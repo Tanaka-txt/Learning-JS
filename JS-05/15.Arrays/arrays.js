@@ -37,6 +37,7 @@ frutas.forEach((valor, indice) => {
     console.log('Indíce:', indice, valor);
 })
 
+// For of
 for (const fruta of frutas) {
      console.log('Fruta:', fruta);
 }
